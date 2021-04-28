@@ -1,2 +1,2 @@
 # python-crash-course-Notebooks
-Python crash course practice notebooks
+Python crash course exercises by eric matthes
